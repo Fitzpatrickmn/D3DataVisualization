@@ -2,7 +2,7 @@ Data Journalism using d3.js:
 
 A project centered around data-driven storytelling and interactive data visualization. Uses HTML, JavaScript and d3.js to visualizations concerning health markers and poverty levels, to assess the health risks facing particular demographics. Data was presented as a CSV from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
-Please visit https://fitzpatrickmn.github.io/Fitzpatrickmn-D3_/ for full display. 
+Please visit https://fitzpatrickmn.github.io/D3DataVisualization/ for full display. 
 Feel free to play around with the indicators as the diplay is interactive.
 
 -----------------------------------------------------------------------------------------------------------------------------
